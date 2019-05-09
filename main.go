@@ -12,5 +12,5 @@ func init() {
 }
 
 func main() {
-	cmd.ConfigureCli()
+	cmd.Run()
 }
