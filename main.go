@@ -11,6 +11,4 @@ func init() {
 	log.SetLevel(log.DebugLevel)
 }
 
-func main() {
-	cmd.Run()
-}
+func main() { cmd.RunCli() }
